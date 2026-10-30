@@ -1,0 +1,7 @@
+# 301 Permanent Redirects
+/home                   /                       301
+/index                  /                       301
+/index.html             /                       301
+
+# Custom 404 Route
+/*                      /404.html               404

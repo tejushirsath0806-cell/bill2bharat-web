@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Disallow server configuration files
+Disallow: /_redirects
+Disallow: /_headers
+Disallow: /vercel.json
+Disallow: /.htaccess
+
+# Sitemaps & Host Definition
+Sitemap: https://bill2bharat.in/sitemap.xml
+Host: https://bill2bharat.in
